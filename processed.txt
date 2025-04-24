@@ -1,49 +1,49 @@
 1. Jak najchętniej Małgosia i Krzysiek spędzają wspólnie czas? (odp. max 25 znaków!)
-    góry 50
-    kajaki 25
-    rozmowy 25
+    W górach 50
+    Na kajakach 25
+    Rozmawiają razem 25
 
 2. Z którego miejsca wakacyjnego Małgosia i Krzysiek mają najmilsze wspomnienia?  (odp. max 25 znaków!)
-    Szczyrzyc 50
-    kajaki 25
-    Walia 25
+    Ze Szczyrzyca 50
+    Z kajaków 25
+    Z Walii 25
 
 3. Przyszłe obowiązki domowe Krzysztofa (odp. max 25 znaków!)
-    sprzątanie 40
-    praca 20
-    zakupy 20
-    naprawianie 20
+    Sprzątanie domu 40
+    Praca w domu 20
+    Robienie zakupów 20
+    Naprawianie rzeczy 20
 
 4. Jakie nietypowe zwyczaje mają Małgosia i Krzysiek?
-    notatki 33
-    modlitwa 33
-    planowanie 33
+    Robią notatki 33
+    Modlą się 33
+    Planowanie 33
 
 5. Jak wprawić Małgosię w dobry humor?
-    żart 50
-    porządek 25
-    ekipa 25
+    Opowiedzieć żart 50
+    Robiąc porządek 25
+    Z ekipą 25
 
 6. Jaką nową umiejętność zdobędą wspólnie Małgosia i Krzysiek?
-    wychowanie dzieci 50
-    opieka nad dzieckiem 25
-    spanie 25
+    Wychowanie dzieci 50
+    Opiekę nad dzieckiem 25
+    Spanie 25
 
 7. Jakie cechy ceni najbardziej Małgosia w Krzyśku?
-    pomoc 25
-    wzrost 25
-    wiara 25
-    serce 25
+    Pomocność 25
+    Wzrost 25
+    Wiarę 25
+    Ceni serce 25
 
 8. Czym najbardziej imponuje Małgosia Krzyśkowi?
-    pomoc 25
-    uroda 25
-    organizacja 25
-    szczerość 25
+    Pomocą 25
+    Urodą 25
+    Organizacją 25
+    Szczerością 25
 
 9. Ulubiona planszówka M&K
     Dixit 25
-    brydż 25
+    Brydż 25
     Wyspa Skyene 25
     Top 10 25
 
@@ -54,54 +54,54 @@
     Bob Budowniczy 25
 
 11. Jakie książki najbardziej lubi Krzysiek?
-    fantastyka 75
-    Diuna 25
+    Fantastyka 75
+    Diunę 25
 
 12. Co znajduje się na liście marzeń państwa młodych?
-    podróże 50
-    rodzina 25
-    technologia 25
+    Podróże 50
+    Rodzina 25
+    Technologia 25
 
 13. Co robią w weekend, a na co nie mają zazwyczaj czasu w tygodniu?
-    squash 25
-    sprzątanie 25
-    sen 25
-    wycieczki 25
+    Uprawiają sport 25
+    W weekend sprzątają. 25
+    W weekend odpoczywają. 25
+    W weekend robią wycieczki. 25
 
 14. Jaki najczęściej obiad robią wspólnie?
-    film 25
-    schabowy 25
-    risotto 25
-    makaron 25
+    Filmowy obiad 25
+    Schabowy 25
+    Risotto 25
+    Makaron 25
 
 15. Czego będzie dotyczyć pierwsza sprzeczka małżeńska?
-    szkoła 50
-    obowiązki domowe 25
-    sen 25
+    O szkole 50
+    Obowiązków domowych 25
+    O sen 25
 
 16. Jakie sporty uprawia(ła) Małgosia?
-    narty 50
-    góry 33
-    tenis 17
+    Na nartach 50
+    Turystykę górską 33
+    Tenis 17
 
 17. Na jakim instrumencie grałby Krzysiek, gdy był obdarzony talentem muzycznym?
-    gitara 50
-    dudy 25
-    harmonijka 25
+    Na gitarze 50
+    Na dudach 25
+    Na harmonijce 25
 
 18. Jak zabiją czas podczas jazdy pociągiem?
-    czytanie 60
-    seriale 20
-    krzyżówki 20
+    Czytając 60
+    Oglądając serial 20
+    Krzyżówki 20
 
 19. Jakie przedmioty najczęściej gubią?
-    klucze 50
-    długopis 25
-    Czołówka 25
+    Klucze 50
+    Długopisy 25
+    Czołówki 25
 
 20. Jaka będzie pierwsza duża inwestycja pary młodej w przyszłym roku?
-    rodzina 25
-    inwestycje 25
-    meble 25
-    samochód 25
+    Rodzina 25
+    Inwestycje 25
+    Meble 25
+    Samochód 25
 
