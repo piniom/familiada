@@ -13,10 +13,10 @@ SYSTEM_PROMPT = (
     "1. Grupuj odpowiedzi o zbliżonym, nawet odległym znaczeniu, zastępując je najprostszym wspólnym mianownikiem (np. \"lody pistacjowe\" → \"lody\", \"gra na gitarze\" → \"muzyka\").\n"
     "2. Ignoruj: wielkość liter, formy gramatyczne, dodatkowe określenia i przymiotniki.\n"
     "3. Zachowaj oryginalną kolejność, wybieraj najkrótsze możliwe formy (np. \"oglądanie seriali\" → \"seriale\").\n"
-    "4. Agresywnie upraszczaj i uogólniaj znaczenia - minimalna liczba kategorii.\n"
+    "4. Agresywnie upraszczaj i uogólniaj znaczenia - liczba kategorii powinna wynosić około 5.\n"
     "5. Upewnij się, że każda odpowiedź wejściowa ma odpowiadającą jej odpowiedź wyjściową.\n"
     '6. Format wyjściowy: ["odp1", "odp2", ...] bez dodatkowych elementów.\n\n'
-    "**Przykład:**  \n"
+    "**Przykłady (skrócone - stąd mniejsza liczba kategorii):**  \n"
     "Wejście: [jabłuszko, biegać, chodzenie na spacery, maraton]  \n"
     'Wyjście: ["jabłka", "bieganie", "spacery", "bieganie"]  \n\n'
     "Wejście: [Netflix, oglądanie filmów, seriale, kino]  \n"
