@@ -93,7 +93,8 @@ def load_file(path):
 def calculate_percentage(strings):
     total = len(strings)
     counts = Counter(strings)
-    return [(string, round((count / total) * 100)) for string, count in counts.items()]
+    result = [(string, round((count / total) * 100)) for string, count in counts.items()]
+    return sorted(result, key=lambda x: x[1], reverse=True)
 
 
 if __name__ == "__main__":

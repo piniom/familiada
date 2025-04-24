@@ -1,16 +1,16 @@
 1. Jak najchętniej Małgosia i Krzysiek spędzają wspólnie czas? (odp. max 25 znaków!)
-    kajaki 25
     góry 50
+    kajaki 25
     rozmowy 25
 
 2. Z którego miejsca wakacyjnego Małgosia i Krzysiek mają najmilsze wspomnienia?  (odp. max 25 znaków!)
-    kajaki 25
     Szczyrzyc 50
+    kajaki 25
     Walia 25
 
 3. Przyszłe obowiązki domowe Krzysztofa (odp. max 25 znaków!)
-    praca 20
     sprzątanie 40
+    praca 20
     zakupy 20
     naprawianie 20
 
@@ -25,8 +25,8 @@
     ekipa 25
 
 6. Jaką nową umiejętność zdobędą wspólnie Małgosia i Krzysiek?
-    opieka nad dzieckiem 25
     wychowanie dzieci 50
+    opieka nad dzieckiem 25
     spanie 25
 
 7. Jakie cechy ceni najbardziej Małgosia w Krzyśku?
@@ -69,7 +69,7 @@
     wycieczki 25
 
 14. Jaki najczęściej obiad robią wspólnie?
-    szybkie danie 25
+    film 25
     schabowy 25
     risotto 25
     makaron 25
@@ -91,7 +91,7 @@
 
 18. Jak zabiją czas podczas jazdy pociągiem?
     czytanie 60
-    serial 20
+    seriale 20
     krzyżówki 20
 
 19. Jakie przedmioty najczęściej gubią?
