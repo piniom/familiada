@@ -1,70 +1,250 @@
 1. Jak najchętniej Małgosia i Krzysiek spędzają wspólnie czas? 
-    Rozmawiają 50
-    W górach 33
-    Na kajakach 17
+    góry 24
+    rozmowy 14
+    gry 10
+    wycieczki 10
+    aktywność 10
+    podróże 7
+    kajaki 5
+    spanie 2
+    wakacje 2
+    remont 2
+    pole 2
+    narty 2
+    randki 2
+    teren 2
+    kolacja 2
+    rower 2
 
 2. Jakie będą przyszłe obowiązki domowe Krzysztofa?
-    Sprzątanie 29
-    Zakupy 29
-    Naprawa urządzeń 29
-    Praca domowa 14
+    sprzątanie 33
+    wynoszenie śmieci 21
+    praca 10
+    naprawianie 10
+    wszystkie 7
+    gotowanie 7
+    zakupy 5
+    różne 2
+    segregacja śmieci 2
+    nie wiem 2
 
 3. Jak wprawić Małgosię w dobry humor?
-    Opowiedzieć żart 50
-    Robiąc porządek 17
-    Poprzez ekipę 17
-    Zrobić kawę 17
+    opowiedzieć żart 10
+    zrobić kawę 10
+    dać jedzenie 5
+    wręczyć kwiaty 5
+    spacer 5
+    połaskotać 5
+    uśmiech 5
+    porządek 2
+    ekipa 2
+    zrobić jedzenie 2
+    nakarmić i zabrać w góry 2
+    zaskoczyć 2
+    tańce 2
+    pozwolić spać 2
+    dać czekoladę 2
+    posprzątać 2
+    komplementy 2
+    zaprosić na imprezę 2
+    lody 2
+    zaprosić do tańca 2
+    zrobić herbatę i komplement 2
+    zabrać w góry 2
+    kupić kwiaty 2
+    zorganizować imprezę i kupić kwiaty 2
+    zaproponować wycieczkę 2
+    spotkanie z przyjaciółmi 2
+    wygłupiać się 2
+    zrobić obiad 2
+    dać kwiaty 2
+    kwiaty 2
+    nie sprzeciwiać się 2
 
 4. Jakie cechy ceni najbardziej Małgosia w Krzyśku?
-    Wiarę 33
-    Pomocność 17
-    Wzrost 17
-    Ceni serce 17
-    Troskliwość 17
+    wzrost 21
+    odpowiedzialność 14
+    wiara 7
+    dobroć 7
+    humor 7
+    troska 5
+    pomoc 2
+    ofiara 2
+    cierpliwość 2
+    wszystko 2
+    wrażliwość 2
+    organizacja 2
+    szczerość 2
+    elokwencja 2
+    zaradność 2
+    uśmiech 2
+    serdeczność 2
+    uczciwość 2
+    opieka 2
+    spokój 2
+    prawość 2
+    empatia 2
+    upór 2
 
 5. Czym najbardziej imponuje Małgosia Krzyśkowi?
-    Zorganizowaniem 50
-    Pomocą 17
-    Urodą 17
-    Szczerością 17
+    zorganizowanie 29
+    zaradność 12
+    inteligencja 10
+    uroda 7
+    dobroć 5
+    otwartość 5
+    zdecydowanie 5
+    mądrość 5
+    pomoc 2
+    szczerość 2
+    wszystko 2
+    komunikatywność 2
+    talent organizatorski 2
+    życzliwość 2
+    pomysłowość 2
+    upór 2
+    spokój 2
+    stanowczość 2
 
 6. Jaka jest ulubiona planszówka Małgosi i Krzysia?
-    Dixit 17
-    Brydż 17
-    Wyspa Skyene 17
-    Top 10 17
-    Cytadela 17
-    Farmer 17
+    Dixit 7
+    Chińczyk 7
+    nie wiem 7
+    Scrabble 7
+    Monopoly 7
+    brydż 5
+    Cytadela 5
+    Osadnicy z Catanu 5
+    Wyspa Skyene 2
+    Top 10 2
+    Farmer 2
+    pomidor 2
+    Terraformacja 2
+    Tajniacy 2
+    Catan 2
+    - 2
+    7 cudów świata 2
+    Elektrownie 2
+    Diuna 2
+    Eldorado 2
+    Times'up 2
+    szachy 2
+    Libretto 2
+    kółko i krzyżyk 2
+    Dominion 2
+    Wybuchające kotki 2
+    Bankrut 2
+    Pociągi 2
+    Neuroshima 2
 
 7. Jaki najczęściej obiad robią wspólnie?
-    Nie dotyczy 33
-    Makaron 33
-    Schabowy 17
-    Risotto 17
+    makaron 49
+    lasagne 7
+    szybkie danie 5
+    schabowy 5
+    carbonara 5
+    risotto 2
+    pomidor 2
+    nie wiem 2
+    rosół 2
+    pierogi 2
+    kurczak z ryżem 2
+    pyry z gzikiem 2
+    pizza 2
+    parówki 2
+    tosty francuskie 2
+    kurczak 2
+    ryż z warzywami 2
 
 8. Czego będzie dotyczyć pierwsza sprzeczka małżeńska?
-    Dotyczyć będzie etyki 33
-    O szkole 17
-    Obowiązków domowych 17
-    O snu 17
-    O transporcie 17
+    śmieci 10
+    sprzątanie 10
+    mieszkanie 7
+    etyka 5
+    ślub 5
+    meble 5
+    wycieczka 5
+    wigilia 5
+    bałagan 5
+    zakupy 5
+    szkoła 2
+    spanie 2
+    przejazdy kolejowe 2
+    obraz 2
+    gotowanie 2
+    zupa 2
+    - 2
+    wakacje 2
+    powrót 2
+    życie 2
+    płatki 2
+    morze i góry 2
+    kwiaty 2
+    auto 2
+    harcerze 2
+    harcerstwo 2
+    pasta do zębów 2
 
 9. Jak zabiją czas podczas jazdy pociągiem?
-    Czytając 43
-    Oglądając seriale 29
-    Krzyżówkami 14
-    Słuchając podcastów 14
+    czytanie 19
+    gry 12
+    rozmowa 9
+    spanie 9
+    krzyżówki 7
+    oglądanie seriali 5
+    słuchanie podcastów 5
+    gry karciane 2
+    śpiew 2
+    muzyka 2
+    obserwacja i rozmowa 2
+    rozmowa i czytanie 2
+    ciupaga 2
+    odliczanie czasu 2
+    liczenie 2
+    gra w króla ciszy 2
+    rozmowa telefoniczna 2
+    oglądanie zdjęć 2
+    słuchanie muzyki 2
+    telefon 2
+    patrzenie w oczy 2
+    samotna zabawa 2
 
 10. Jakie przedmioty najczęściej gubią?
-    Klucze 50
-    Długopisy 17
-    Czołówki 17
-    Kominy 17
+    klucze 29
+    rękawiczki 10
+    okulary 10
+    telefon 10
+    długopis 5
+    czapki 5
+    czołówka 2
+    kominy 2
+    słuchawki 2
+    - 2
+    nie wiem 2
+    parasole 2
+    ubrania 2
+    kombinerki 2
+    wątek 2
+    chusteczki 2
+    grzebień 2
+    szpilki 2
+    kask 2
+    skarpetki 2
 
 11. Jaka będzie pierwsza duża inwestycja pary młodej w przyszłym roku?
-    Meble 33
-    Dziecko 17
-    Inwestycje 17
-    Samochód 17
-    Remont 17
+    samochód 40
+    meble 14
+    remont 7
+    wyjazd 7
+    wózek 7
+    thermomix 5
+    dziecko 2
+    udziały 2
+    wymiana 2
+    odkurzacz 2
+    kajaki 2
+    tandem 2
+    w siebie 2
+    pies 2
+    zmywarka 2
 

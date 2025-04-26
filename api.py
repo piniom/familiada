@@ -18,7 +18,7 @@ def main():
             try:
                 answers = single_question(questions, answers)
                 answers = calculate_percentage(answers)
-                answers = [(normalize_reply(question, a), p) for (a, p) in answers]
+                # answers = [(normalize_reply(question, a), p) for (a, p) in answers]
                 outputfile.write(question + '\n')
                 outputfile.write('\n'.join([f"    {a} {p}" for (a, p) in answers]) + '\n\n')
                 outputfile.flush()
@@ -75,6 +75,7 @@ def single_question(question, answers, retry = 0):
         'Wyjście: ["jedzenie", "jedzenie", "gotowanie", "jedzenie"]  \n'
     )
     def prompt_question( answers):
+        answers = [f"\"{a}\"" for a in answers]
         prompt = f"Wejście: [{', '.join(answers)}] \n Wyjście:"
         return prompt
 
@@ -93,11 +94,12 @@ def single_question(question, answers, retry = 0):
     response = ast.literal_eval("".join([chunk.choices[0].delta.content for chunk in response if chunk.choices[0].delta.content]))
 
     if len(answers) != len(response):
+        print(f"Lengths differ! {len(answers)} != {len(response)}") 
         if retry > 0:
-            print(f"Lengths differ! \n{answers} \n{response}\nretrying {retry} \n\n")
+            print(f"\n{answers} \n{response}\nretrying {retry} \n\n")
             return single_question(question, answers, retry - 1)
         else: 
-            print(f"Lengths differ! \n{answers} \n{response}\nFatal\n\n")
+            print(f"\n{answers} \n{response}\nFatal\n\n")
 
     
     return response
